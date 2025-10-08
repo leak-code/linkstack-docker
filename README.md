@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200px" src="https://raw.githubusercontent.com/LinkStackOrg/branding/main/logo/svg/logo_animated.svg"><br>
+  <img width="200px" src="https://raw.githubusercontent.com/KONOHATOTO78/branding/main/logo/svg/logo_animated.svg"><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" width="400px" srcset="https://raw.githubusercontent.com/LinkStackOrg/branding/main/badges/png/website_light.png">
     <img width="400px" src="https://raw.githubusercontent.com/LinkStackOrg/branding/main/badges/png/website_dark.png">
